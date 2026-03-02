@@ -191,8 +191,8 @@ sudo pacman -S bind openssl tcpdump
 ### Run
 
 ```bash
-git clone https://github.com/yourusername/dns-leak-test
-cd dns-leak-test
+git clone https://github.com/microlaser/DNS_freedom
+cd DNS_freedom
 sudo bash dns_leak_test.sh
 ```
 
